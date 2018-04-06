@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RFApp</string>
+    <string name="image">Image</string>
+    <string name="rfapp">RFApp</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
